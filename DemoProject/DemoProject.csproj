@@ -112,7 +112,6 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="html\template1.html" />
     <Content Include="html\template2.html" />
     <Content Include="html\template3.html" />
     <Content Include="packages.config" />
